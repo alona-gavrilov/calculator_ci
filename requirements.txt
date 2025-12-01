@@ -3,7 +3,7 @@ flake8==5.0.4
 iniconfig==2.0.0
 mccabe==0.7.0
 packaging==24.0
-pluggy==1.6.0
+pluggy==1.2.0
 pycodestyle==2.14.0
 pyflakes==3.4.0
 Pygments==2.19.2
